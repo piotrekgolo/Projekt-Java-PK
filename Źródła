@@ -2,6 +2,10 @@
 2. wzorzec czynnosciowy polecenie: http://www.know-how.info.pl/programowanie/java/wzorce-projektowe/czynnosciowe/polecenie/
 3. do tego jakiś wzorzec typu builder lub factory. 
 
+
+Narzędzie do zarządzania przepisami kuchennymi		Gromadzenie, wyszukiwanie, ocenianie przepisów, aplikacja desktopowa
+
+
 Stworzymy desktopową aplikację do zarządzania przepisami kulinarnymi. 
 Podstawowymi czynnościami dostępnymi dla użytkownika będzie:
 1. przegladanie wszystkich przepisów
